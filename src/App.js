@@ -1,13 +1,15 @@
 import './App.css';
 
 import React, { Component } from 'react';
+import NavBar from './Components/NavBar';
+import News from './Components/News';
 
 export default class App extends Component {
-    date = '20-01-2022'
-    render() {
+   render() {
       return <div>
-        Hello My First Class Based Component developed on {this.date}
-    </div>;
+          <NavBar/>
+          <News/>
+       </div>;
   }
 }
 
