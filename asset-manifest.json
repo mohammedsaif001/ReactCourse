@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactCourse-NewsApp/static/css/main.abd64e84.css",
-    "main.js": "/ReactCourse-NewsApp/static/js/main.d1e4a990.js",
+    "main.js": "/ReactCourse-NewsApp/static/js/main.089d48a3.js",
     "static/js/787.e7c298fb.chunk.js": "/ReactCourse-NewsApp/static/js/787.e7c298fb.chunk.js",
     "index.html": "/ReactCourse-NewsApp/index.html",
     "main.abd64e84.css.map": "/ReactCourse-NewsApp/static/css/main.abd64e84.css.map",
-    "main.d1e4a990.js.map": "/ReactCourse-NewsApp/static/js/main.d1e4a990.js.map",
+    "main.089d48a3.js.map": "/ReactCourse-NewsApp/static/js/main.089d48a3.js.map",
     "787.e7c298fb.chunk.js.map": "/ReactCourse-NewsApp/static/js/787.e7c298fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.d1e4a990.js"
+    "static/js/main.089d48a3.js"
   ]
 }
